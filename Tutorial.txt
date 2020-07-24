@@ -1,0 +1,5 @@
+1. git bash: git init
+2. git bash: git pull sth...
+3. sourcetree: add, 添加文件夹
+4. sourcetree: 远端: 路径: URL是hithub的ssh，托管类型: github， 用户名随意
+5. SSH?
